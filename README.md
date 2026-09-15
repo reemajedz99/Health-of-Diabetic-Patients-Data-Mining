@@ -1,7 +1,7 @@
 ## Project Title :
 Health of Diabetic Patients .
 
-## Project Goal:
+## Project Description :
 Diabetes is a common chronic disease that can have serious effects on a person's health if it is not identified and managed properly. Identifying patterns and factors associated with diabetes can help in understanding the characteristics of patients who are more likely to be diagnosed with the disease.
 In this project, we aim to analyze a diabetes health dataset containing demographic, lifestyle, medical, clinical, and behavioral information about patients. The main problem we want to solve is classifying patients into diabetic and non-diabetic categories based on their health-related characteristics.
 The project is important because data-mining techniques can be used to discover meaningful patterns in healthcare data and examine which factors are associated with diabetes. We will apply data preprocessing, exploratory data analysis, and classification techniques to build and evaluate a model for predicting the diabetes diagnosis.
