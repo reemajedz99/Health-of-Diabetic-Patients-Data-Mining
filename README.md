@@ -6,7 +6,7 @@ Health of Diabetic Patients .
 Diabetes is a common chronic disease that can have serious effects on a person's health. Analyzing health-related data can help identify patterns and factors associated with diabetes and provide a better understanding of the characteristics of patients.
 In this project, we aim to analyze a diabetes health dataset containing demographic, lifestyle, medical, clinical, and behavioral information. We will apply both classification and clustering data-mining techniques to the dataset.
 For classification, we will build a model to classify patients into diabetic and non-diabetic categories based on their health-related characteristics. For clustering, we will group patients into similar clusters based on their health and lifestyle characteristics in order to discover hidden patterns and groups within the dataset.
-The project is important because using both classification and clustering allows us to approach the dataset from two perspectives: classification helps predict the diabetes category, while clustering helps discover natural patterns and similarities among patients. Through data preprocessing, exploratory data analysis, classification, and clustering, we aim to extract meaningful insights from the dataset.
+The project is important because using both classification and clustering allows us to approach the dataset from two perspectives: classification helps predict the diabetes category, while clustering helps discover natural patterns and similarities among patients. Through data classification, and clustering, we aim to extract meaningful insights from the dataset.
 
 ## Project Motivation
 
