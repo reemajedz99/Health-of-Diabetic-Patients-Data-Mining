@@ -2,9 +2,9 @@
 Health of Diabetic Patients .
 
 ## Project Goal:
-The goal of this project is to analyze patient health data and develop a classification model to predict whether a patient has diabetes or not. The dataset contains demographic information, lifestyle factors, medical history, clinical measurements, medication usage, symptoms, environmental exposures, and health behaviors. By analyzing these factors, the project aims to identify patterns and characteristics that are associated with diabetes diagnosis.
-
-The project will involve data preprocessing, exploratory data analysis, feature analysis, and classification techniques. The final model will classify patients into two categories: diabetic and non-diabetic, based on the available health-related features. This can help demonstrate how data-mining techniques can be applied to healthcare data to identify factors related to diabetes and support early risk assessment.
+Diabetes is a common chronic disease that can have serious effects on a person's health if it is not identified and managed properly. Identifying patterns and factors associated with diabetes can help in understanding the characteristics of patients who are more likely to be diagnosed with the disease.
+In this project, we aim to analyze a diabetes health dataset containing demographic, lifestyle, medical, clinical, and behavioral information about patients. The main problem we want to solve is classifying patients into diabetic and non-diabetic categories based on their health-related characteristics.
+The project is important because data-mining techniques can be used to discover meaningful patterns in healthcare data and examine which factors are associated with diabetes. We will apply data preprocessing, exploratory data analysis, and classification techniques to build and evaluate a model for predicting the diabetes diagnosis.
 
 ## Project Motivation
 
