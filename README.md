@@ -2,9 +2,11 @@
 Health of Diabetic Patients .
 
 ## Project Description :
-Diabetes is a common chronic disease that can have serious effects on a person's health if it is not identified and managed properly. Identifying patterns and factors associated with diabetes can help in understanding the characteristics of patients who are more likely to be diagnosed with the disease.
-In this project, we aim to analyze a diabetes health dataset containing demographic, lifestyle, medical, clinical, and behavioral information about patients. The main problem we want to solve is classifying patients into diabetic and non-diabetic categories based on their health-related characteristics.
-The project is important because data-mining techniques can be used to discover meaningful patterns in healthcare data and examine which factors are associated with diabetes. We will apply data preprocessing, exploratory data analysis, and classification techniques to build and evaluate a model for predicting the diabetes diagnosis.
+
+Diabetes is a common chronic disease that can have serious effects on a person's health. Analyzing health-related data can help identify patterns and factors associated with diabetes and provide a better understanding of the characteristics of patients.
+In this project, we aim to analyze a diabetes health dataset containing demographic, lifestyle, medical, clinical, and behavioral information. We will apply both classification and clustering data-mining techniques to the dataset.
+For classification, we will build a model to classify patients into diabetic and non-diabetic categories based on their health-related characteristics. For clustering, we will group patients into similar clusters based on their health and lifestyle characteristics in order to discover hidden patterns and groups within the dataset.
+The project is important because using both classification and clustering allows us to approach the dataset from two perspectives: classification helps predict the diabetes category, while clustering helps discover natural patterns and similarities among patients. Through data preprocessing, exploratory data analysis, classification, and clustering, we aim to extract meaningful insights from the dataset.
 
 ## Project Motivation
 
