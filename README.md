@@ -1,5 +1,10 @@
-# Mental-Health-Data-Mining
+# Diabetes-Health-Data-Mining
 Data Mining Project for classification and clustering of teen mental health data
+
+## Project Goal:
+The goal of this project is to analyze patient health data and develop a classification model to predict whether a patient has diabetes or not. The dataset contains demographic information, lifestyle factors, medical history, clinical measurements, medication usage, symptoms, environmental exposures, and health behaviors. By analyzing these factors, the project aims to identify patterns and characteristics that are associated with diabetes diagnosis.
+
+The project will involve data preprocessing, exploratory data analysis, feature analysis, and classification techniques. The final model will classify patients into two categories: diabetic and non-diabetic, based on the available health-related features. This can help demonstrate how data-mining techniques can be applied to healthcare data to identify factors related to diabetes and support early risk assessment.
 
 ## Project Motivation
 
