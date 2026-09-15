@@ -1,5 +1,5 @@
 ## Project Title :
-Health of Diabetic Patients .
+IT326-Diabetes .
 
 ## Project Description :
 
