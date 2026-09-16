@@ -1,7 +1,6 @@
-## Project Title :
-IT326-Diabetes .
+### Diabetes 
 
-## Project Description :
+## Project Description 
 
 Diabetes is a common chronic disease that can have serious effects on a person's health. Analyzing health-related data can help identify patterns and factors associated with diabetes and provide a better understanding of the characteristics of patients.
 In this project, we aim to analyze a diabetes health dataset containing demographic, lifestyle, medical, clinical, and behavioral information. We will apply both classification and clustering data-mining techniques to the dataset.
